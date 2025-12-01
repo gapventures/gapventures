@@ -1,4 +1,4 @@
-Hi there, I'm Matt Cantonwine 👋
+I'm Matt Cantonwine 👋
 
 **Strategic Financial Leader | AI Implementation Specialist | Fintech Founder**
 
