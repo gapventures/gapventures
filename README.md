@@ -10,7 +10,7 @@ Currently, I am focused on architecting sustainable, data-driven systems that tr
 
 An AI-powered "Assistant Manager" for amateur sports coaches.
 
-I built TeamSyncAI to solve the coordination chaos of amateur sports. It is a full-stack Progressive Web App (PWA) that leverages Generative AI to handle logistics so coaches can focus on the game.
+I built TeamSyncAI to solve the coordination chaos of amateur sports. It is a full-stack Progressive Web App (PWA) that leverages Generative AI and automated SMS reminders to handle logistics so coaches can focus on the game.
 
 
 | Core Capability | Technical Implementation |
@@ -55,3 +55,4 @@ I built TeamSyncAI to solve the coordination chaos of amateur sports. It is a fu
 mrcantonwine@gmail.com | matt@team-sync-ai.com
 
 [TeamSyncAI Website ](https://team-sync-ai.com/)
+
