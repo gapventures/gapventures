@@ -6,11 +6,11 @@ I bridge the gap between strategic finance and technical execution. With a backg
 
 Currently, I am focused on architecting sustainable, data-driven systems that transform financial organizations.
 
-**Featured Project: TeamSyncAI**
+**Featured Project: Reply1 Sports Technology**
 
 An AI-powered "Assistant Manager" for amateur sports coaches.
 
-I built TeamSyncAI to solve the coordination chaos of amateur sports. It is a full-stack Progressive Web App (PWA) that leverages Generative AI and automated SMS reminders to handle logistics so coaches can focus on the game.
+I built Reply1 to solve the coordination chaos of amateur sports. It is a full-stack application that leverages Generative AI and automated SMS reminders to handle logistics so coaches can focus on the game.
 
 
 | Core Capability | Technical Implementation |
@@ -52,7 +52,7 @@ I built TeamSyncAI to solve the coordination chaos of amateur sports. It is a fu
 
 [LinkedIn Profile](https://www.linkedin.com/in/mrcantonwine/)
 
-mrcantonwine@gmail.com | matt@team-sync-ai.com
+mrcantonwine@gmail.com | matt@reply1.app
 
-[TeamSyncAI Website ](https://team-sync-ai.com/)
+[Reply1 Website ](https://reply1.app/)
 
