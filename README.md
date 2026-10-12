@@ -1,4 +1,4 @@
-I'm Matt Cantonwine 👋
+I'm Matt Cantonwine 
 
 **Strategic Financial Leader | AI Implementation Specialist | Fintech Founder**
 
@@ -42,7 +42,6 @@ I built Reply1 to solve the coordination chaos of amateur sports. It is a full-s
 
 **Education & Certifications**
 
-* M.A., Finance (Expected 2027) - Harvard University Extension School
 * B.A., Economics - McKendree University
 * Black Belt in Six Sigma - The Council for Six Sigma Certification (CSSC)
 * Project Management - Google
